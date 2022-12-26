@@ -17,18 +17,16 @@ Repositório criado para compartilhar o meu progresso no treinamento "Formação
 ##
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologia Utilizada no Treinamento
 
 Os projetos desse repositório foram desenvolvidos com as seguintes tecnologias:
 
 <div align="center" style="display: inline_block"><br>  
      <img align="center" alt="Ricardo-java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-     <p align="center"><img alt="Java Developer" >
-</p>
-
+     <p align="center">"Java Developer"</p>
 </div>
 
-- Java
+
 
 
 
