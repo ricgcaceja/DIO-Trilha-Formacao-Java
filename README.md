@@ -1,7 +1,7 @@
 <h1 align="center"> DIO - TRILHA DE FORMAÇÃO JAVA </h1>
 
 <p align="center">
-Repositório criado para compartilhar o meu progresso no treinamento em Java da DIO - Digital Inovation One.
+Repositório criado para compartilhar o meu progresso no treinamento "Formação Java Developer" da "DIO - Digital Inovation One".
 </p>
 
 <p align="center">
