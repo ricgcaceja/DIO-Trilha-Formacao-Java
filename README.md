@@ -15,9 +15,11 @@ Repositório criado para compartilhar o meu progresso no treinamento "Formação
   - Conhecendo o Spring Framework.
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+<div align="center" style="display: inline_block"><br>  
+     <img align="center" alt="Ricardo-java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+##
 
 <br>
 
