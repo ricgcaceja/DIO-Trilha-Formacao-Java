@@ -14,6 +14,12 @@ Repositório criado para compartilhar o meu progresso no treinamento "Formação
   - Qualidade de Código e Boas Práticas com Java;
   - Conhecendo o Spring Framework.
 </p>
+##
+<br>
+
+## 🚀 Tecnologias
+
+Os projetos desse repositório foram desenvolvidos com as seguintes tecnologias:
 
 <div align="center" style="display: inline_block"><br>  
      <img align="center" alt="Ricardo-java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -21,16 +27,6 @@ Repositório criado para compartilhar o meu progresso no treinamento "Formação
 </p>
 
 </div>
-
-##
-
-<br>
-
-
-
-## 🚀 Tecnologias
-
-Os projetos desse repositório foram desenvolvidos com as seguintes tecnologias:
 
 - Java
 
