@@ -18,7 +18,7 @@ Repositório criado para compartilhar o meu progresso no treinamento "Formação
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Java Developer" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,6 +28,6 @@ Os projetos desse repositório foram desenvolvidos com as seguintes tecnologias:
 - Java
 
 
-## 💻 Projeto
+
 
 
