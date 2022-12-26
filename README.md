@@ -17,15 +17,16 @@ Repositório criado para compartilhar o meu progresso no treinamento "Formação
 
 <div align="center" style="display: inline_block"><br>  
      <img align="center" alt="Ricardo-java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+     <p align="center"><img alt="Java Developer" >
+</p>
+
 </div>
 
 ##
 
 <br>
 
-<p align="center">
-  <img alt="Java Developer" src=".github/preview.jpg" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 
