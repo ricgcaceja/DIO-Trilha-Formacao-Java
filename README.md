@@ -6,15 +6,16 @@ Repositório criado para compartilhar o meu progresso no treinamento "Formação
 
 <div>
   <p> Tópicos estudados:</p>
-  <ol>
-  - Fundamentos da Plataforma Java;
-  - Escopo e Estruturas de Controle em Java;
-  - Programação Orientada a Objetos em Java;
-  - Estruturas de Dados e API de Streams em Java;
-  - Gerenciamento de Dependências e Build em Projetos Java;
-  - Qualidade de Código e Boas Práticas com Java;
-  - Conhecendo o Spring Framework.</a>
-</ol>
+    <ul>
+    - Fundamentos da Plataforma Java;
+    - Escopo e Estruturas de Controle em Java;
+    - Programação Orientada a Objetos em Java;
+    - Estruturas de Dados e API de Streams em Java;
+    - Gerenciamento de Dependências e Build em Projetos Java;
+    - Qualidade de Código e Boas Práticas com Java;
+    - Conhecendo o Spring Framework.</a>
+  </ul>
+ </div> 
 <br>
 
 <div align="center" style="display: inline_block"><br>  
