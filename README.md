@@ -4,7 +4,7 @@
 Repositório criado para compartilhar o meu progresso no treinamento "Formação Java Developer" da "DIO - Digital Inovation One".
 </p>
 
-<p align="center">
+<p align="left">
   - Tópicos estudados:
   - Fundamentos da Plataforma Java;
   - Escopo e Estruturas de Controle em Java;
