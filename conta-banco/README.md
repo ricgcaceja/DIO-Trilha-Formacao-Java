@@ -1,6 +1,6 @@
-# DIO - Trilha Formação Java
+# Desafio DIO - Trilha Formação Java
 
-## Sintaxe do Desafio
+## Resumo do Desafio
 
 1. Criação de um projeto `ContaBanco` que recebe dados do usuário via terminal contendo as características de conta em banco conforme atributos abaixo:
 
