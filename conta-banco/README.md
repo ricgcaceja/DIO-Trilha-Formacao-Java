@@ -1,18 +1,16 @@
-## Getting Started
+# Desafio DIO - Trilha Formação Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Resumo do Desafio
 
-## Folder Structure
+1. Criação de um projeto `ContaBanco` que recebe dados do usuário via terminal contendo as características de conta em banco conforme atributos abaixo:
 
-The workspace contains two folders by default, where:
+<ul>
+  <li>Nome do Cliente</li>
+  <li>Número da Conta</li>
+  <li>Número da Agência</li>
+</ul>
+<p> Obs: O valor do saldo da Conta já estará pré-definido.</p>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+2. Depois de todas as informações terem sido inseridas pelo usuário, o sistema exibirá a seguinte mensagem:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+*"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
